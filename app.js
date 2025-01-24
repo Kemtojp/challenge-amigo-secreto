@@ -25,6 +25,7 @@ function agregarAmigo() {
 
 // Función para sortear un amigo
 function sortearAmigo() {
+    const listaElementos = document.getElementById("listaAmigos");
     const resultado = document.getElementById("resultado");
 
     // Validar que haya nombres en la lista
@@ -39,4 +40,8 @@ function sortearAmigo() {
 
     // Mostrar el resultado
     resultado.textContent = `🎉 El amigo secreto es: ${amigoSorteado} 🎉`;
+
+    // Vaciar la lista de amigos en el DOM y en la variable
+    listaAmigos = [];
+    listaElementos.innerHTML = ""; // Elimina todos los elementos de la lista
 }
