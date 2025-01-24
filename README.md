@@ -38,7 +38,10 @@ amigo-secreto/
  └── assets/         # Imágenes y otros recursos.
 ```
 
-![image](https://github.com/user-attachments/assets/0ed22fb6-2add-4c78-b629-25843975ee27)
+![image](https://github.com/user-attachments/assets/fed6ad2a-2962-4730-a973-dbd9f13ba94a)
+-------------------------------------------------------------------------------------------
+![image](https://github.com/user-attachments/assets/eaecb26d-10d4-4841-a690-1037f4275f7a)
+
 
 ## Autor
 
